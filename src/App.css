@@ -1,0 +1,25 @@
+/* for app title (h1) */
+@import url("https://fonts.googleapis.com/css2?family=Arima:wght@600&display=swap");
+
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,500,600,700&display=swap");
+/* fonts used for eau de parfum */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  min-height: 100vh;
+  font-family: "Josefin Sans", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
