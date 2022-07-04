@@ -21,3 +21,9 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+.vercel
+
+## Added by me
+package-lock.json
+.browserslistrc
+babel.config.js
